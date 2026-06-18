@@ -1,1 +1,1 @@
-# exerc-cio_aula1
+# exercicio_aula1
